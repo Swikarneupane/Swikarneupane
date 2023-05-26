@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swikarneupane" alt="swikarneupane" /></a> </p>
 
-- 🔭 I’m currently working on **on my personal website.**
+- 🔭 I’m currently working on **building up my portfolio.**
 
-- 🌱 I’m currently learning **React JS.**
+- 🌱 I’m currently learning **Next JS and Node JS.**
 
 - 📫 Reach me here **swikarme@gmail.com**
 
