@@ -1,7 +1,7 @@
 <table>
  <tr>
   <td align="center" width="300">
-   <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+   <img alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=300 />
   </td>
   <td align="center" width="300">
    <h1> Swikar Neupane </h1>
