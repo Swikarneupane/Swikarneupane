@@ -1,9 +1,9 @@
 <table>
  <tr>
-  <td align="center" width="300">
+  <td align="center" width="900">
    <img alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=300 />
   </td>
-  <td align="center" width="300">
+  <td align="center" width="900">
    <h1> Swikar Neupane </h1>
    <h4> Frontend Developer | Engineering Student </h4>
   </td>
